@@ -1,4 +1,5 @@
 Sign Up Form
+
 Type of Form:It's a sign-up form intended for new users to create accounts.
 
 Key Elements:
